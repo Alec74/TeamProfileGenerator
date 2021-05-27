@@ -1,0 +1,29 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alec74/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alec74/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Alec74/TeamProfileGenerator#readme"
+}
